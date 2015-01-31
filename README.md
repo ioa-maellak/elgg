@@ -1,4 +1,4 @@
-elgg_ellak
+elgg
 ======
 
 About this repository
@@ -22,6 +22,9 @@ About Elgg
 >other features. It was also the first platform to bring ideas from commercial social
 >networking platforms to educational software.
 
+License
+-------
+Elgg is released under the GNU General Public License (GPL) Version 2 and the Massachusetts Institute of Technology (MIT-X11) License.
 
 Translation type
 -----
@@ -84,7 +87,7 @@ Translation Progress by Parts
  - [ ] P7: Welcome - Miscellaneous
  - [ ] P8: Languages
 
-Note
+Notes
 ----
  * _Note that only the final el.php document(s) will be pushed in this repository._
  * __en-local.php__ _is the PHP file that is currently translated._
