@@ -22,9 +22,11 @@ About Elgg
 >other features. It was also the first platform to bring ideas from commercial social
 >networking platforms to educational software.
 
+
 License
 -------
 Elgg is released under the GNU General Public License (GPL) Version 2 and the Massachusetts Institute of Technology (MIT-X11) License.
+
 
 Translation type
 -----
@@ -56,7 +58,7 @@ Screenshots
 Translation Progress by Sections
 -----
 
-(Ready to push to the official ELGG repository)
+(Ready to push to the official Elgg repository)
  - [x] __Sites__
  - [x] __Sessions__
  - [x] __Errors__
@@ -88,34 +90,37 @@ Translation Progress by Sections
  - [x] __System messages__
  - [x] __Import / export__
  - [x] __Time__
- - [ ] __System settings__
- - [ ] __Welcome__
- - [ ] __Emails__
- - [ ] __user default access__
- - [ ] __Comments__
- - [ ] __Entities__
- - [ ] __Action gatekeeper__
+ - [x] __System settings__
+ - [x] __Welcome__
+ - [x] __Emails__
+ - [x] __user default access__
+ - [x] __Comments__
+ - [x] __Entities__
+ - [x] __Action gatekeeper__
  - [ ] __Word blacklists__
- - [ ] __Tag labels__
- - [ ] __Javascript__
- - [ ] __Miscellaneous__
+ - [x] __Tag labels__
+ - [x] __Javascript__
+ - [x] __Miscellaneous__
  - [x] __Languages according to ISO 639-1__
+
 
 Completed Parts
 -----
 
-(Ready to push to the official ELGG repository)
+(Ready to push to the official Elgg repository)
  - [x] P1: Sessions and Errors
  - [x] P2: User Details - Account
  - [x] P3: Administration
  - [x] P4: Plugins
  - [x] P5: User settings - Time
- - [ ] P6: System settings
- - [ ] P7: Welcome - Miscellaneous
+ - [x] P6: System settings
+ - [x] P7: Welcome - Miscellaneous
  - [x] P8: Languages
+
 
 Notes
 ----
+
  * _Note that only the final el.php document(s) will be pushed to this repository._
  * __en-local.php__ _is the PHP file that is currently translated._
  * __en-v9.php__ _is the PHP file of ELGG version 1.9_
