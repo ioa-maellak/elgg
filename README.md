@@ -3,13 +3,12 @@ elgg
 
 About this repository
 -----
-
 >This is a repository used for the localization of Elgg social networking engine - version 1.9 .
->There are no significant differences between version 1.9 and 1.10, so both versions will finally be localized.
+>There are no significant differences between version 1.9, 1.10, 1.11.0 and 1.11.1, so all these versions will finally be localized.
+
 
 The Organization responsible
 -----
-
 >University of Ioannina Unit of Excellence -
 >Greek Free and Open Source Software Society (GFOSS)
 
@@ -54,10 +53,16 @@ Screenshots
 ![advanced_settings](./screenshots/advanced_settings.png)
 
 
+Translated Elgg Versions
+-----
+ - [x] Version 1.9.\*
+ - [x] Version 1.10.\*
+ - [x] Version 1.11.0
+ - [x] Version 1.11.1
+
 
 Translation Progress by Sections
 -----
-
 (Ready to push to the official Elgg repository)
  - [x] __Sites__
  - [x] __Sessions__
@@ -106,7 +111,6 @@ Translation Progress by Sections
 
 Completed Parts
 -----
-
 (Ready to push to the official Elgg repository)
  - [x] P1: Sessions and Errors
  - [x] P2: User Details - Account
@@ -116,13 +120,4 @@ Completed Parts
  - [x] P6: System settings
  - [x] P7: Welcome - Miscellaneous
  - [x] P8: Languages
-
-
-Notes
-----
-
- * _Note that only the final el.php document(s) will be pushed to this repository._
- * __en-local.php__ _is the PHP file that is currently translated._
- * __en-v9.php__ _is the PHP file of ELGG version 1.9_
- * __en-v10.php__ _is the PHP file of ELGG version 1.10_
 
